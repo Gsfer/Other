@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project test -->
+<!-- Saved: 2022-03-22, 11:11:22 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{b0555bcd-924f-40fa-bbe6-c806d26a0ba8}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2022-03-22, 11:07:17</Created>
+    <Resource>
+      <Filename>GraphicsView_collidesWithItem.py</Filename>
+      <Linenumber>70</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{62f00929-0cf2-4e97-b7c5-a0d90fae805d}">
+    <Summary>TODO: 模具输入应该为一套，当前只考虑一种模具的情况，后续补充完整模具</Summary>
+    <Description></Description>
+    <Created>2022-03-22, 11:07:17</Created>
+    <Resource>
+      <Filename>collision_detect.py</Filename>
+      <Linenumber>85</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
